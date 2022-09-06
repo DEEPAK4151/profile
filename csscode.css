@@ -1,0 +1,33 @@
+body{
+    background-color: lightcyan;
+    text-align: center;
+    position: relative;
+}
+.profilephoto{
+    height: 400px;
+    width: 400px;
+}
+.topcloud{
+    position: relative;
+    left: 300px;
+
+}
+.bottomcloud{
+    position: absolute;
+    left: 400px;
+}
+.linkedin{
+    height: 100px;
+    width: 100px;
+    margin-right: 100px;
+}
+.instagram{
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;;
+}
+.gmail{
+    height: 100px;
+    width: 100px;
+    
+}
